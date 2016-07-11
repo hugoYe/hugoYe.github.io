@@ -1,9 +1,3 @@
 # hugoYe.github.io
-hugoYe µÄ²©¿Í
+hugoYe çš„åšå®¢
 
-## ²âÊÔ
-* ÄãºÃ
-* ´ó¼ÒºÃ
-
-
-### test
